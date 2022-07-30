@@ -1,10 +1,10 @@
 # BinaryClassification_EDA_with_Python
 A detailed notebook to deal with Binary Classification Problem without having any clue of input columns
 
-#Task
+# Task
 Binary Classification - Do an exploratory analysis of the dataset provided, decide on feature selection, preprocessing before training a model to classify as class ‘0’ or class ‘1’.
 
-#Given files 
+# Given files 
 1.	training_set.csv - To be used as training and validation set - 3910 records, 57 features, 1 output
 2.	test_set.csv (without Ground Truth) - 691 records, 57 features
 
